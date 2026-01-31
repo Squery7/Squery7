@@ -75,14 +75,3 @@ Currently focused on strengthening my skills in **web technologies**.
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-000000?logo=swagger&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Squery7&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Squery7&layout=compact&theme=dark)
-
----
-
-## 👀 Profile views
-![Visitors](https://visitcount.itsvg.in/api?id=Squery7&icon=9&color=0)
